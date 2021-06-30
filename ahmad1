@@ -1,1 +1,1 @@
-[ { "1": "تست", "2": "https://s4.uupload.ir/files/img_20210630_025140_962_u6rq.jpg", "3": "https://s4.uupload.ir/files/img_20210630_025140_962_u6rq.jpg" } ]
+ d = new AlertDialog.Builder(this,AlertDialog.THEME_TRADITIONAL);
